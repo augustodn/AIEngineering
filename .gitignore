@@ -1,0 +1,7 @@
+*
+!.gitignore
+!*.ipynb
+!*.py
+!*/
+04-PyTorch/pytorch_FashionMNIST
+*/.ipynb_checkpoints/*
